@@ -1,0 +1,18 @@
+{
+  "name": "sweep-webpack-plugin",
+  "version": "1.0.9",
+  "description": "删除项目中无用文件的webpack插件",
+  "keywords": [
+    "webpack",
+    "unused-files"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin":{
+    "sweep-webpack-plugin-restore":"bin/index.js"
+  },
+  "author": "laoshengchuan",
+  "license": "ISC"
+}
